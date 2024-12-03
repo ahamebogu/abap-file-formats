@@ -1,0 +1,3 @@
+INTERFACE zif_aff_edot_v1
+PUBLIC.
+ENDINTERFACE
